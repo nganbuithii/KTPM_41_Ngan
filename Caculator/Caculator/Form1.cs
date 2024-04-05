@@ -56,5 +56,16 @@ namespace Caculator
             ketqua = c.Excute("/");
             txt_kq.Text = ketqua.ToString();
         }
+
+        private void btnMu2_Click(object sender, EventArgs e)
+        {
+            int n;
+            double x, ketqua;
+            n= int.Parse(txt_2.Text);
+            x= int.Parse(txt_1.Text);
+
+            // vi static
+            ketqua = Caculation_41_ngan.Power(x,n);
+        }
     }
 }

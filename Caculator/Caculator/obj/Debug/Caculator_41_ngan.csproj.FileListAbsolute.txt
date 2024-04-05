@@ -8,3 +8,13 @@ C:\Users\admin\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator_41_n
 C:\Users\admin\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator_41_ngan.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator.exe
 C:\Users\admin\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator.pdb
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator_41_ngan.csproj.AssemblyReference.cache
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator_41_ngan.csproj.GenerateResource.cache
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator_41_ngan.csproj.CoreCompileInputs.cache
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\FShop\Desktop\KTPM_41_Ngan\Caculator\Caculator\obj\Debug\Caculator.pdb

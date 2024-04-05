@@ -94,5 +94,29 @@ namespace CaculatorTester_41_ngan
             actual = c.Excute(operation);
             Assert.AreEqual(expected,actual);
         }
+
+        [TestMethod]
+        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV", @".\Data\TestDataPower.csv", "TestDataPower#csv", DataAccessMethod.Sequential)]
+        public void TestPower()
+        {
+            int n;
+            double x,  actual, expected;
+            //n = 0;
+            //x = 2;
+
+            //x = 2;
+            //n = 3; 
+            //expected = 1;
+            n = int.Parse(TestContext.DataRow[1].ToString());
+            x = double.Parse(TestContext.DataRow[0].ToString());
+
+            expected = double.Parse(TestContext.DataRow[2].ToString());
+
+           
+            //mong muon
+            actual = Caculation_41_ngan.Power(x, n);
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
